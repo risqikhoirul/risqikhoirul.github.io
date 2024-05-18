@@ -8,7 +8,7 @@
 
 ## Summary
 
-I am a computer science practitioner and a student at Nahdlatul Ulama Sunan Giri University (UNUGIRI). I am active in professional organizations such as the Indonesian Data Scientists Association (AIDI). With extensive experience in the blockchain industry, I have expertise in cryptocurrency, NFTs, Airdrops, marketing management, analysis, and trading. Additionally, I am proficient in various programming languages and am currently focused on developing projects that leverage blockchain technology.
+I am a computer science practitioner and a student at Universitas Nahdlatul Ulama Sunan Giri Bojonegoro (UNUGIRI Bojonegoro)). I am active in professional organizations such as the Asosiasi Ilmuwan Data Indonesia (AIDI). With extensive experience in the blockchain industry, I have expertise in cryptocurrency, NFTs, Airdrops, marketing management, analysis, and trading. Additionally, I am proficient in various programming languages and am currently focused on developing projects that leverage blockchain technology.
 
 ## Skills
 
