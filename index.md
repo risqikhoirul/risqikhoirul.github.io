@@ -13,7 +13,7 @@ I am a computer science practitioner and a student at Universitas Nahdlatul Ulam
 ## Skills
 
 - **DevOps Engineer**
-  - Membangun Arsitektur Microsevices
+  - Building Microsevices Architecture
   - Implementasi CI/CD
 
 - **Blockchain Industry:**
