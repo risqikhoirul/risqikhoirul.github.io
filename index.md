@@ -3,8 +3,8 @@
 ## Personal Information
 
 - **Name:** M Khoirul Risqi
-- **University:** Nahdlatul Ulama Sunan Giri University (UNUGIRI)
-- **Professional Associations:** Indonesian Data Scientists Association (AIDI)
+- **University:** Universitas Nahdlatul Ulama Sunan Giri Bojonegoro (UNUGIRI Bojonegoro)
+- **Professional Associations:** Asosiasi Ilmuwan Data Indonesia (AIDI)
 
 ## Summary
 
@@ -13,12 +13,10 @@ I am a computer science practitioner and a student at Nahdlatul Ulama Sunan Giri
 ## Skills
 
 - **DevOps Engineer**
-
   - Membangun Arsitektur Microsevices
   - Implementasi CI/CD
 
 - **Blockchain Industry:**
-
   - Smart Contracts
   - Cryptocurrency
   - NFTs
@@ -26,16 +24,14 @@ I am a computer science practitioner and a student at Nahdlatul Ulama Sunan Giri
   - Trading
 
 - **BackEnd:**
-
   - Expressjs
   - Automation (Node.js) Engineer
 
 - **Data:**
-
   - Data Mining
 
 - **Programming Languages:**
-  - JavaScript, PHP Python, dan Solidity
+  - JavaScript, PHP, Python, dan Solidity
 
 ## Projects
 
@@ -55,22 +51,48 @@ I am a computer science practitioner and a student at Nahdlatul Ulama Sunan Giri
 
 ## Education
 
-- **Degree:** S1 Teknik Informatika
-  - **University:** Nahdlatul Ulama Sunan Giri University (UNUGIRI)
+- **Degree:** S1 informatics engineering
+  - **University:** Universitas Nahdlatul Ulama Sunan Giri Bojonegoro (UNUGIRI Bojonegoro)
 
 ## Professional Associations
 
-- **Indonesian Data Scientists Association (AIDI)**
+- **Asosiasi Ilmuwan Data Indonesia (AIDI)**
   - **Role:** Member
   - **Duration:** Oktober 2023 - Present
+
+## Certifications
+
+- **DBS Foundation Coding Camp 2023 - DevOps Intermediate**
+  
+  <img src="sertifikat/dbs-inter.jpg" alt="DBS Intermediate" width="300">
+
+  Studied Linux, DevOps, Continuous Integration and Continuous Delivery (CI/CD). Attended weekly Zoom meetings.
+
+- **DBS Foundation Coding Camp 2023 - DevOps Expert**
+
+  <img src="sertifikat/dbs-ex.jpg" alt="DBS Expert" width="300">
+
+  Studied microservices, Docker, GitHub Packages, DevOps, RabbitMQ, Istio, Kubernetes. Attended weekly Zoom meetings.
+
+- **Alibaba Cloud Certification**
+
+  <img src="sertifikat/1.jpg" alt="Alibaba Cloud" width="300">
+
+  Learned how to deploy on Alibaba Cloud.
+
+- **Sheetposting Informatika Coding Bootcamp Progate**
+
+  <img src="sertifikat/2.jpg" alt="Progate" width="300">
+
+  Studied data science and basic frontend web development, attended Zoom meetings twice a week.
+
+- For additional certifications, please visit my [LinkedIn Profile](https://www.linkedin.com/in/khoirulrisqi/details/certifications/).
+
+- I frequently study materials on Dicoding. See more at my [Dicoding Profile](https://www.dicoding.com/users/khoirulrisqi/academies?graduation_status=graduated).
 
 ## Contact Information
 
 - **Email:** risqisgb@gmail.com
 - **LinkedIn:** [https://linkedin.com/in/khoirulrisqi](https://linkedin.com/in/khoirulrisqi)
-- **GitHub:** https://github.com/risqikhoirul
-- **Website:** https://risqikhoirul.github.io
-
----
-
-Feel free to customize this template further to better reflect your specific experiences, skills, and projects.
+- **GitHub:** [https://github.com/risqikhoirul](https://github.com/risqikhoirul)
+- **Website:** [https://risqikhoirul.github.io](https://risqikhoirul.github.io)
