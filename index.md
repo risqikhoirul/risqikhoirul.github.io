@@ -69,7 +69,7 @@ I am a computer science practitioner and a student at Universitas Nahdlatul Ulam
     Implementing microservices architecture for building applications with separate services communicating with each other.
 
 12. **[HaloDek](https://github.com/risqikhoirul/HaloDek)**  
-    An online platform for hotel and accommodation booking.
+    An online platform for doctor and accommodation booking.
 
 13. **[CertificateDapps](https://github.com/risqikhoirul/CertificateDapps)**  
     A blockchain-based application for issuing digital and decentralized certificates.
